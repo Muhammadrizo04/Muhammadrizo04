@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Mhammadrizo, and I am a passionate backend developer focused on building efficient, scalable systems. My expertise includes Python, Django, and automation tools like Celery and Selenium. I work with PostgreSQL and build robust REST APIs. Currently, I’m expanding my skills with FastAPI and exploring UI development using Flet. My goal is to deliver clean, maintainable code for complex systems.<br><br>Tech Stack:<br><br>🐍 Python<br>🌐 Django<br>🚀 FastAPI<br>📊 PostgreSQL<br>🧩 REST API<br>🕸️ Selenium<br>🔄 Celery<br>💾 SQL<br>🖥️ Flet<br>Currently Learning:<br><br>⚡ FastAPI<br>🖥️ Flet
+My name is Muhammadrizo, and I am a passionate backend developer focused on building efficient, scalable systems. My expertise includes Python, Django, and automation tools like Celery and Selenium. I work with PostgreSQL and build robust REST APIs. Currently, I’m expanding my skills with FastAPI and exploring UI development using Flet. My goal is to deliver clean, maintainable code for complex systems.<br><br>Tech Stack:<br><br>🐍 Python<br>🌐 Django<br>🚀 FastAPI<br>📊 PostgreSQL<br>🧩 REST API<br>🕸️ Selenium<br>🔄 Celery<br>💾 SQL<br>🖥️ Flet<br>Currently Learning:<br><br>⚡ FastAPI<br>🖥️ Flet
 
 
 ## 🌐 Socials:
